@@ -1,8 +1,20 @@
-# Code Challenge
-Please fork to your local, and when you are ready send a pull request back for review.
+ionic5 + Angular8 + Nodejs with Docker
 
-Contact: jsemander@starmark.com
+# Pre-Requesties
+* Node + npm || yarn
+* Docker
+* ionic cli
 
-Feel free to reach out to if you have an issue, this is more about understanding your process than right or wrong. (Although it would be highly advised to understand what has already been explained/provide or googled before you reach out)
+# Front-End / Mobile App
 
-If you use google, try not to copy code directly from Stackoverflow or other forum sites, although they are useful, they are not the best example of your coding style, and do not help you understand why it fixes your issue.
+* ionic 5 with Angular
+
+# Back-End / Server
+* Nodejs + Express
+* MongoDB
+* Docker 
+
+
+
+
+
