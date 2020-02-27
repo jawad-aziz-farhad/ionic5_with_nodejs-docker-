@@ -21,3 +21,4 @@ docs
 data
 !.nycrc.json
 .env
+yarn.lock
